@@ -1,5 +1,5 @@
 
-# 📘 **Docker Word Counter App 
+# 📘 Docker Word Counter App 
 
 A multi-container Docker application that counts words from user input using:
 
