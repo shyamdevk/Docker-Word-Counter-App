@@ -61,6 +61,7 @@ Docker-word-counter-app/
 ---
 
 # 🌐 **5. Create a Custom Docker Bridge Network**
+⚠️MAKE SURE YOU CLONE THE Git FILES
 
 All containers will communicate over a custom LAN-like network:
 
