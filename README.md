@@ -203,7 +203,7 @@ http://localhost:7000
 ```
 
 ---
-![Screenshot](https://github.com/shyamdevk/AWS-Concepts-Labs/blob/images/3.png)
+![Screenshot](https://github.com/shyamdevk/docker-word-counter-app/blob/images/3.png)
 # 🧪 **13. Connectivity Testing (Optional)**
 
 Start a debug container:
