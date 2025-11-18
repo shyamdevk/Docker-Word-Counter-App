@@ -305,10 +305,4 @@ This project teaches:
 
 ---
 
-If you want, I can also create:
-
-✅ A **diagram** of the entire architecture
-✅ A **PDF version** of this README
-✅ A **compose file**
-Just tell me!
 
